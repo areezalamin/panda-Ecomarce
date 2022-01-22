@@ -1,0 +1,9 @@
+.fixed-top-background{
+    background-color: #f8f9fa;
+}
+.btn-danger{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.input-color{
+    background-color: #fceae8;
+}
